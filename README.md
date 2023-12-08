@@ -1,2 +1,5 @@
-# 1000 DEVS API
-## Segunda aula sobre git, testes unitarios e nodeJS
+# 1000 DEVs API
+
+## Introdução ao GitHub [ok]
+
+## Criação de projeto nodeJS [ok]
